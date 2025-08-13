@@ -38,7 +38,7 @@ const default_configuration = {
     "s": "search-bar",
   },
   disabled: [],
-  localIcons: true,
+  localIcons: false,
   localFonts: true,
   fastlink: "https://www.perplexity.ai",
   openLastVisitedTab: true,
@@ -132,7 +132,7 @@ const default_configuration = {
     },
     {
       name: "dev",
-      background_url: "src/img/banners/banner_22.gif",
+      background_url: "src/img/banners/banner_25.gif",
       categories: [
         {
           name: "development",
@@ -295,9 +295,9 @@ const default_configuration = {
               icon_color: palette.red,
             },
             {
-              name: "kyivstar",
-              url: "https://tv.kyivstar.ua",
-              icon: "star-filled",
+              name: "twitch",
+              url: "https://www.twitch.tv/",
+              icon: "brand-twitch",
               icon_color: palette.blue,
             },
           ],
