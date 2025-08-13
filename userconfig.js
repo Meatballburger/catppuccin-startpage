@@ -40,7 +40,7 @@ const default_configuration = {
   disabled: [],
   localIcons: false,
   localFonts: true,
-  fastlink: "https://www.perplexity.ai",
+  fastlink: "https://www.coolmathgames.com/",
   openLastVisitedTab: true,
   tabs: [
     {
@@ -231,7 +231,7 @@ const default_configuration = {
               icon_color: palette.green,
             },
             {
-              name: "facebook",
+              name: "`fa`cebook",
               url: "https://www.facebook.com",
               icon: "brand-facebook",
               icon_color: palette.peach,
