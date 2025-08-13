@@ -76,7 +76,7 @@ const default_configuration = {
             {
               name: "proton mail",
               url: "https://mail.proton.me/u/1/inbox",
-              icon: "brand-proton mail",
+              icon: "brand-proton",
               icon_color: palette.peach,
             },
             {
