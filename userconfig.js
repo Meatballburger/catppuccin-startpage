@@ -2,7 +2,7 @@
 
 // Define preferred palette for light and dark mode
 // Available themes: latte, frappe, mocha, macchiato
-const preferredLightTheme = latte;
+const preferredLightTheme = frappe;
 const preferredDarkTheme = mocha;
 
 let palette = initThemeSystem(preferredLightTheme, preferredDarkTheme);
@@ -10,7 +10,7 @@ let palette = initThemeSystem(preferredLightTheme, preferredDarkTheme);
 const default_configuration = {
   overrideStorage: true,
   temperature: {
-    location: "Tyler",
+    location: "Dallas",
     scale: "F",
   },
   clock: {
@@ -219,7 +219,7 @@ const default_configuration = {
     },
     {
       name: "chi ll",
-      background_url: "src/img/banners/banner_08.gif",
+      background_url: "src/img/banners/banner_19.gif",
       categories: [
         {
           name: "social media",
