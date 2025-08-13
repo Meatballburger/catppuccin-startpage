@@ -44,8 +44,8 @@ const default_configuration = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "ButtFace",
-      background_url: "src/img/banners/banner_09.gif",
+      name: "ME",
+      background_url: "src/img/banners/banner_20.gif",
       categories: [
         {
           name: "bookmarks",
@@ -132,7 +132,7 @@ const default_configuration = {
     },
     {
       name: "dev",
-      background_url: "src/img/banners/banner_07.gif",
+      background_url: "src/img/banners/banner_22.gif",
       categories: [
         {
           name: "development",
