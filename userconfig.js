@@ -40,7 +40,7 @@ const default_configuration = {
   disabled: [],
   localIcons: false,
   localFonts: true,
-  fastlink: "https://www.coolmathgames.com/",
+  fastlink: "https://www.perplexity.ai",
   openLastVisitedTab: true,
   tabs: [
     {
