@@ -225,9 +225,9 @@ const default_configuration = {
           name: "social media",
           links: [
             {
-              name: "telegram",
-              url: "https://web.telegram.org",
-              icon: "brand-telegram",
+              name: "twitter",
+              url: "https://x.com/home",
+              icon: "brand-twitter",
               icon_color: palette.green,
             },
             {
@@ -260,15 +260,15 @@ const default_configuration = {
               icon_color: palette.peach,
             },
             {
-              name: "epicgames",
-              url: "https://store.epicgames.com",
-              icon: "brand-fortnite",
+              name: "itch.io",
+              url: "https://itch.io/games",
+              icon: "brand-itch.io",
               icon_color: palette.red,
             },
             {
-              name: "nintendo",
-              url: "https://store.nintendo.co.uk",
-              icon: "device-nintendo",
+              name: "gog",
+              url: "https://www.gog.com/en/",
+              icon: "brand-gog",
               icon_color: palette.blue,
             },
           ],
