@@ -262,7 +262,7 @@ const default_configuration = {
             {
               name: "itch.io",
               url: "https://itch.io/games",
-              icon: "https://static.itch.io/images/itchio-textless-black.svg",
+              icon: "brand-itch io",
               icon_color: palette.red,
             },
             {
