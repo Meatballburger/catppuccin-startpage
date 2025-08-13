@@ -268,7 +268,7 @@ const default_configuration = {
             {
               name: "gog",
               url: "https://www.gog.com/en/",
-              icon: "brand-gog com",
+              icon: "brand-GOG",
               icon_color: palette.blue,
             },
           ],
