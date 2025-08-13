@@ -3,7 +3,7 @@
 // Define preferred palette for light and dark mode
 // Available themes: latte, frappe, mocha, macchiato
 const preferredLightTheme = latte;
-const preferredDarkTheme = macchiato;
+const preferredDarkTheme = mocha;
 
 let palette = initThemeSystem(preferredLightTheme, preferredDarkTheme);
 
@@ -69,7 +69,7 @@ const default_configuration = {
           links: [
             {
               name: "gmail",
-              url: "https://mail.google.com",
+              url: "https://mail.google.com/mail/u/0/#inbox",
               icon: "brand-gmail",
               icon_color: palette.green,
             },
