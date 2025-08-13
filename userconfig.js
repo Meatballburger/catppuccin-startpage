@@ -57,7 +57,7 @@ const default_configuration = {
               icon_color: palette.green,
             },
             {
-              name: "musicForProgramming();",
+              name: "musicForProgramming:)",
               url: "https://musicforprogramming.net",
               icon: "binary-tree",
               icon_color: palette.peach,
@@ -74,9 +74,9 @@ const default_configuration = {
               icon_color: palette.green,
             },
             {
-              name: "calendar",
-              url: "https://calendar.google.com",
-              icon: "calendar-filled",
+              name: "protonmail",
+              url: "https://mail.proton.me/u/1/inbox",
+              icon: "brand-proton-mail",
               icon_color: palette.peach,
             },
             {
@@ -268,7 +268,7 @@ const default_configuration = {
             {
               name: "gog",
               url: "https://www.gog.com/en/",
-              icon: "brand-GOG",
+              icon: "brand-GOG-com",
               icon_color: palette.blue,
             },
           ],
