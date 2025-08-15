@@ -31,6 +31,8 @@ const default_configuration = {
       d: ["https://duckduckgo.com/?q=", "DuckDuckGo"],
       g: ["https://google.com/search?q=", "Google"],
       b: ["https://search.brave.com/?q=","Brave"],
+      pre: ["https://presearch.com/?q=", "Presearch"],
+      all: ["https://www.alltheinternet.com/?q=", "All The Internet"],
     },
     default: "d",
   },
@@ -40,11 +42,11 @@ const default_configuration = {
   disabled: [],
   localIcons: false,
   localFonts: true,
-  fastlink: "https://www.perplexity.ai",
+  fastlink: "https://www.coolmathgames.com/",
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "ME",
+      name: "Use",
       background_url: "src/img/banners/banner_20.gif",
       categories: [
         {
@@ -97,15 +99,15 @@ const default_configuration = {
           name: "media",
           links: [
             {
-              name: "уп",
-              url: "https://www.pravda.com.ua",
+              name: "ground news",
+              url: "https://ground.news/",
               icon: "news",
               icon_color: palette.green,
             },
             {
-              name: "mil.in.ua",
-              url: "https://mil.in.ua",
-              icon: "badge-filled",
+              name: "internet archive",
+              url: "https://archive.org/",
+              icon: "archive",
               icon_color: palette.peach,
             },
             {
