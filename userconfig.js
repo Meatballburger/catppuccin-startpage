@@ -78,7 +78,7 @@ const default_configuration = {
             {
               name: "proton mail",
               url: "https://mail.proton.me/u/1/inbox",
-              icon: "brand-pmail",
+              icon: "email",
               icon_color: palette.peach,
             },
             {
@@ -233,7 +233,7 @@ const default_configuration = {
               icon_color: palette.green,
             },
             {
-              name: "`fa`cebook",
+              name: "facebook",
               url: "https://www.facebook.com",
               icon: "brand-facebook",
               icon_color: palette.peach,
